@@ -37,7 +37,7 @@ SpikePlot::SpikePlot(
 
 {
 
-    font = Font("Default", 15, Font::plain);
+    font = Font("Default", 20, Font::plain);
 
     switch (electrode->numChannels)
     {
